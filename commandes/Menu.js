@@ -35,7 +35,7 @@ const date = moment().format('DD/MM/YYYY');
 ╭─────────────────☉
 │▫️╭─────────────☉
 │  │ *GOJOU-MD*
-│▫️│*BOT-OWNER* : ${s.OWNER_NAME}
+│▫️│*BOT-OWNER* : ${s.PABLO}
 │▫️│*Date* : ${date}
 │▫️│*PREFIX* : ${s.PREFIXE}
 │▫️│*WORKTYPE* : ${mode}
