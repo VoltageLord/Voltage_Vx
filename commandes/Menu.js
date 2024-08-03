@@ -34,8 +34,8 @@ const date = moment().format('DD/MM/YYYY');
   let infoMsg =  `
 ╭─────────────────☉
 │▫️╭─────────────☉
-│  │ *GOJOU-MD*
-│▫️│*BOT-OWNER* : ${s.OWNER_NAME}
+│  │ *PABLO-MD*
+│▫️│*BOT-OWNER* : ${s.PABS BUG }
 │▫️│*Date* : ${date}
 │▫️│*PREFIX* : ${s.PREFIXE}
 │▫️│*WORKTYPE* : ${mode}
@@ -46,8 +46,8 @@ const date = moment().format('DD/MM/YYYY');
 │▫️╰──────────────☉
 ╰──────────────────☉
 ╭───────────────☉
- ☉〘 Gojou-MD 〙☉
- ☉by David Cyril☉
+ ☉〘 PABS BUG 〙☉
+ ☉by PABLO☉
 ╰───────────────☉\n`;
     
 let menuMsg = `
@@ -73,7 +73,7 @@ let menuMsg = `
 *———————————————————————————*
 |▫️Gojou-MD
 |▫️a Multi device whatsapp bot
-|▫️Created by _David Cyril_
+|▫️Created by _PABLO_
 |▫️_Repo_ :https://github.com/DeeCeeXxx/Gojou-MD
 *———————————————————————————*
 `;
@@ -82,7 +82,7 @@ let menuMsg = `
 
    if (lien.match(/\.(mp4|gif)$/i)) {
     try {
-        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *Gojou-MD*, déveloper David Cyril" , gifPlayback : true }, { quoted: ms });
+        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *PABS BUG*, déveloper PABLO" , gifPlayback : true }, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);
