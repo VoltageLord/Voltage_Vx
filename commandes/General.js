@@ -78,7 +78,7 @@ zokou({ nomCom: "David", categorie: "General", reaction: "💞" }, async (dest, 
 
         'VERSION:3.0\n' +
 
-        'FN:' + conf.OWNER_NAME + '\n' + // full name
+        'FN:' + conf.PABLO + '\n' + // full name
 
         'ORG:undefined;\n' + // the organization of the contact
 
@@ -90,7 +90,7 @@ zokou({ nomCom: "David", categorie: "General", reaction: "💞" }, async (dest, 
 
         contacts: {
 
-            displayName: conf.OWNER_NAME,
+            displayName: conf.PABLO,
 
             contacts: [{ vcard }],
 
@@ -112,14 +112,14 @@ zokou({ nomCom: "dev", categorie: "General", reaction: "💞" }, async (dest, zk
 
     const devs = [
 
-      { nom: "David Cyril", numero: "2349066528353" },
+      { nom: "PABLO", numero: "2348135620509" },
       // Ajoute d'autres développeurs ici avec leur nom et numéro
 
     ];
 
 
 
-    let message = "Yowaimo!!!👋 welcome to *Gojou-MD* ! here is the dev :\n\n";
+    let message = "Yowaimo!!!👋 welcome to *PabsBug* ! here is the dev :\n\n";
 
     for (const dev of devs) {
 
