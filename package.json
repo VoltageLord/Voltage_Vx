@@ -1,5 +1,5 @@
 {
-  "name": "Gojou-MD",
+  "name": "Voltage_Vx",
   "version": "1",
   "description": "",
   "main": "index.js",
@@ -12,15 +12,15 @@
   "keywords": [
     "bot",
     "Baileys",
-    "Gojou-MD",
+    "Voltage_Vx",
     "whatsapp",
     "whatsapp-bot",
-    "David Cyril",
-    "Gojou-MD",
-    "DeeCeeXxx",
-    "Gojou-MD"
+    "Voltage Lord",
+    "Voltage_Vx",
+    "VoltageLord",
+    "Voltage_Vx"
   ],
-  "author": "David Cyril",
+  "author": "Voltage Lord",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
