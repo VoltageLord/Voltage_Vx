@@ -1,18 +1,18 @@
-  # Gojou-MD
+  # Voltage_Vx
    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center"> 
-<u>⚡ A simple WhatsApp User Bot Coded By David Cyril ⚡</u>
+<u>⚡ A simple WhatsApp User Bot Coded By Voltage Lord ⚡</u>
 </p>
 <p align="center">
 <img src="https://i.imgur.com/YKVlucn.jpeg"/>       
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•__I'M+GOJOU-+MD__•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+DAVID+CYRIL;RELEASED+DATE+18%2F6%2F2024." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•__I'M+Voltage_+Vx__•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+VOLTAGE⚡+LORD;RELEASED+DATE+8%2F8%2F2024." alt="Typing SVG" /></a>
 </p> 
 <p align="center">
-<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-DAVID_CYRIL-red.svg?style=for-the-badge&logo=github"></a>
+<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-VOLTAGE_LORD-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/DeeCeeXxx/Itachi_Uchiha-Md/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/DeeCeeXxx/Itachi_Uchiha-Md?color=blue&style=flat-square"></a>
+<a href="https://github.com/VoltageLord/Voltage_Vx/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/DeeCeeXxx/Itachi_Uchiha-Md?color=blue&style=flat-square"></a>
 <a href="https://github.com/DeeCeeXxx/Itachi_Uchiha-Md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/DeeCeeXxx/Itachi_Uchiha-Md?color=yellow&style=flat-square"></a>
 <a href="https://github.com/DeeCeeXxx/Itachi_Uchiha-Md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/DeeCeeXxx/Itachi_Uchiha-Md?label=Watchers&color=red&style=flat-square"></a>
 <a href="https://github.com/DeeCeeXxx/Itachi_Uchiha-Md/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-Yes-red.svg"></a>&nbsp;&nbsp;
