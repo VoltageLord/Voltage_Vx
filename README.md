@@ -1,5 +1,5 @@
 ### Voltage_V1_BUG_BOT 
-   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+   <a><img src='https://telegra.ph/file/cc4a24fc24a8ec395f845.jpg'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
 <img src="https://i.imgur.com/o3rgLGK.jpeg"/> 
 <p align="center">
