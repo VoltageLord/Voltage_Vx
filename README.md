@@ -3,7 +3,7 @@
 <p align="center">
 <img src="https://i.imgur.com/o3rgLGK.jpeg"/> 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+_____Voltage+V1+BUG+-BOT_____;WHATSAPP+CRASH+x+BUG+BOT;DEVELOPED+BY+VOLTAGE⚡+LORD;REALESE+DATE+21%2F6%2F2024." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+_____Voltage+V1+BUG+-BOT_____;WHATSAPP+CRASH+x+BUG+BOT;DEVELOPED+BY+VOLTAGE⚡+LORD;REALESE+DATE+10%2F8%2F2024." alt="Typing SVG" /></a>
 </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
@@ -50,6 +50,47 @@ npm start
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 # Termux Deployment
+### this code copy from Prexzy  all credits for him
+
+```
+atp update
+   
+
+apt upgrade
+
+pkg update && pkg upgrade
+
+pkg install bash
+
+ pkg install git
+
+ pkg install nodejs
+
+pkg install ffmpeg
+
+pkg install wget
+
+pkg install imagemagick
+
+ pkg install yarn
+
+termux-setup-storage
+```
+
+```
+git clone https://github.com/VoltageLord/Voltage_V1_BUG_BOT
+```
+```
+ cd Voltage_V1_BUG_BOT
+```
+```
+yarn install
+  ```
+    
+```
+npm start
+```
+
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
