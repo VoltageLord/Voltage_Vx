@@ -11,12 +11,10 @@
 ### If you want to deploy somewhere else, upload your creds.json in session folder after getting pair code on replit. 
 
 ### 1. <a href="https://github.com/VoltageLord/Voltage_V1_BUG_BOT/fork"><img src="https://img.shields.io/badge/FORK-blue" alt="Click Here to fork Voltage_V1_BUG_BOT" width="70"></a>
- src="https://img.shields.io/badge/DEPLOY ON PANEL-black" alt="Click Here to Deploy on Panel" width="120"></a>
-### 4. <a 
+ 
 
 
-</br>
-
+### 2.
 #### COPY THESE COMMANDS AND PASTE IF YOU TRYING TO DEPLOY [Voltage_V1_BUG_BOT](https://github.com/VoltageLord/Voltage_V1_BUG_BOT) ON ANY TERMINAL
 ```
 sudo apt -y update && sudo apt -y upgrade
